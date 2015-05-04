@@ -117,13 +117,13 @@ public class Player : MonoBehaviour {
         {
             LogMessage("No card in Action Slot.");
         }
-        if(actionSlot.cardName == "Sword")
+        else if(actionSlot.cardName == "Sword")
         {
             LogMessage("You have a sword");
         }
         else
         {
-            LogMessage("Something went wrong");
+            LogMessage("Something went wrong with Card ID " + actionSlot.cardID);
         }
     }
 
@@ -135,6 +135,7 @@ public class Player : MonoBehaviour {
         {
             Inventory.Add(ScriptableObject.CreateInstance<ICard>());
             Inventory[0].init(card);
+			LogMessage("Picked up " + card.cardName + " in Inventory Slot 1");
         }
         else
         {
@@ -148,6 +149,7 @@ public class Player : MonoBehaviour {
             }
             Inventory[slot] = ScriptableObject.CreateInstance<ICard>();
             Inventory[slot].init(card);
+			LogMessage("Picked up " + card.cardName + " created in Inventory Slot " + slot);
         }        
         Destroy(card.gameObject);
     }
