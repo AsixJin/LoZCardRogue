@@ -1,0 +1,760 @@
+fileFormatVersion: 2
+guid: 706d9c431e08f644da35c07a63c67ff4
+timeCreated: 1430713147
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    8900000: generatedCubemap
+    21300000: LoZOOS_Tiles_0
+    21300002: LoZOOS_Tiles_1
+    21300004: LoZOOS_Tiles_2
+    21300006: LoZOOS_Tiles_3
+    21300008: LoZOOS_Tiles_4
+    21300010: LoZOOS_Tiles_5
+    21300012: LoZOOS_Tiles_6
+    21300014: LoZOOS_Tiles_7
+    21300016: LoZOOS_Tiles_8
+    21300018: LoZOOS_Tiles_9
+    21300020: LoZOOS_Tiles_10
+    21300022: LoZOOS_Tiles_11
+    21300024: LoZOOS_Tiles_12
+    21300026: LoZOOS_Tiles_13
+    21300028: LoZOOS_Tiles_14
+    21300030: LoZOOS_Tiles_15
+    21300032: LoZOOS_Tiles_16
+    21300034: LoZOOS_Tiles_17
+    21300036: LoZOOS_Tiles_18
+    21300038: LoZOOS_Tiles_19
+    21300040: LoZOOS_Tiles_20
+    21300042: LoZOOS_Tiles_21
+    21300044: LoZOOS_Tiles_22
+    21300046: LoZOOS_Tiles_23
+    21300048: LoZOOS_Tiles_24
+    21300050: LoZOOS_Tiles_25
+    21300052: LoZOOS_Tiles_26
+    21300054: LoZOOS_Tiles_27
+    21300056: LoZOOS_Tiles_28
+    21300058: LoZOOS_Tiles_29
+    21300060: LoZOOS_Tiles_30
+    21300062: LoZOOS_Tiles_31
+    21300064: LoZOOS_Tiles_32
+    21300066: LoZOOS_Tiles_33
+    21300068: LoZOOS_Tiles_34
+    21300070: LoZOOS_Tiles_35
+    21300072: LoZOOS_Tiles_36
+    21300074: LoZOOS_Tiles_37
+    21300076: LoZOOS_Tiles_38
+    21300078: LoZOOS_Tiles_39
+    21300080: LoZOOS_Tiles_40
+    21300082: LoZOOS_Tiles_41
+    21300084: LoZOOS_Tiles_42
+    21300086: LoZOOS_Tiles_43
+    21300088: LoZOOS_Tiles_44
+    21300090: LoZOOS_Tiles_45
+    21300092: LoZOOS_Tiles_46
+    21300094: LoZOOS_Tiles_47
+    21300096: LoZOOS_Tiles_48
+    21300098: LoZOOS_Tiles_49
+    21300100: LoZOOS_Tiles_50
+    21300102: LoZOOS_Tiles_51
+    21300104: LoZOOS_Tiles_52
+    21300106: LoZOOS_Tiles_53
+    21300108: LoZOOS_Tiles_54
+    21300110: LoZOOS_Tiles_55
+    21300112: LoZOOS_Tiles_56
+    21300114: LoZOOS_Tiles_57
+    21300116: LoZOOS_Tiles_58
+    21300118: LoZOOS_Tiles_59
+    21300120: LoZOOS_Tiles_60
+    21300122: LoZOOS_Tiles_61
+    21300124: LoZOOS_Tiles_62
+    21300126: LoZOOS_Tiles_63
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: 3
+  maxTextureSize: 256
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: LoZOOS_Tiles_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 149
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZOOS_Tiles_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 149
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZOOS_Tiles_2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 149
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZOOS_Tiles_3
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 149
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZOOS_Tiles_4
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 149
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZOOS_Tiles_5
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 149
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZOOS_Tiles_6
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 149
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZOOS_Tiles_7
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 149
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZOOS_Tiles_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 149
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZOOS_Tiles_9
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 149
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZOOS_Tiles_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 132
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZOOS_Tiles_11
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 132
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZOOS_Tiles_12
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 132
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZOOS_Tiles_13
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 132
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZOOS_Tiles_14
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 132
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZOOS_Tiles_15
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 132
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZOOS_Tiles_16
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 132
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZOOS_Tiles_17
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 132
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZOOS_Tiles_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 132
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZOOS_Tiles_19
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 132
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZOOS_Tiles_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 115
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZOOS_Tiles_21
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 115
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZOOS_Tiles_22
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 115
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZOOS_Tiles_23
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 115
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZOOS_Tiles_24
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 115
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZOOS_Tiles_25
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 115
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZOOS_Tiles_26
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 115
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZOOS_Tiles_27
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 115
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZOOS_Tiles_28
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 115
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZOOS_Tiles_29
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 115
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZOOS_Tiles_30
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 98
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZOOS_Tiles_31
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 98
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZOOS_Tiles_32
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 98
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZOOS_Tiles_33
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 98
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZOOS_Tiles_34
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 98
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZOOS_Tiles_35
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 98
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZOOS_Tiles_36
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 98
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZOOS_Tiles_37
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 98
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZOOS_Tiles_38
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 98
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZOOS_Tiles_39
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZOOS_Tiles_40
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZOOS_Tiles_41
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZOOS_Tiles_42
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZOOS_Tiles_43
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZOOS_Tiles_44
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZOOS_Tiles_45
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZOOS_Tiles_46
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZOOS_Tiles_47
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZOOS_Tiles_48
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZOOS_Tiles_49
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZOOS_Tiles_50
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZOOS_Tiles_51
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZOOS_Tiles_52
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZOOS_Tiles_53
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZOOS_Tiles_54
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZOOS_Tiles_55
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZOOS_Tiles_56
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 47
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZOOS_Tiles_57
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 47
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZOOS_Tiles_58
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 47
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZOOS_Tiles_59
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 47
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZOOS_Tiles_60
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 47
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZOOS_Tiles_61
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 47
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZOOS_Tiles_62
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 47
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZOOS_Tiles_63
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 47
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

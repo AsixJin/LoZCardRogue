@@ -66,6 +66,10 @@ public class Player : MonoBehaviour {
         {
             anim.SetInteger("Direction", 3);
         }
+        else if(rBody.velocity.Equals(new Vector2(0,0)))
+        {
+           
+        }
 
         //Button Controls
         //Square is for using the Action Solt card
@@ -121,6 +125,10 @@ public class Player : MonoBehaviour {
         {
             LogMessage("You have a sword");
         }
+        else if(actionSlot.cardName == "Flute")
+        {
+            LogMessage("You have a flute");
+        }
         else
         {
             LogMessage("Something went wrong with Card ID " + actionSlot.cardID);
@@ -129,8 +137,7 @@ public class Player : MonoBehaviour {
 
     //Interact with collided object (Only for pick up atm)
     private void PickUp(Card card)
-    {
-        int slot = 0;
+    {        
         if(Inventory.Count == 0)
         {
             Inventory.Add(ScriptableObject.CreateInstance<ICard>());
@@ -139,6 +146,7 @@ public class Player : MonoBehaviour {
         }
         else
         {
+            int slot = -1;
             for (int i = 0; i < Inventory.Count - 1; i++)
             {
                 if (Inventory[i] == null)
@@ -147,7 +155,16 @@ public class Player : MonoBehaviour {
                     break;
                 }
             }
-            Inventory[slot] = ScriptableObject.CreateInstance<ICard>();
+
+            if(slot == -1)
+            {
+                slot = Inventory.Count;
+                Inventory.Add(ScriptableObject.CreateInstance<ICard>());                
+            }
+            else
+            {
+                Inventory[slot] = ScriptableObject.CreateInstance<ICard>();
+            }       
             Inventory[slot].init(card);
 			LogMessage("Picked up " + card.cardName + " created in Inventory Slot " + slot);
         }        

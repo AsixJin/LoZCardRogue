@@ -1,0 +1,792 @@
+fileFormatVersion: 2
+guid: e7118001cbee83f4ab6be8f4579e40bf
+timeCreated: 1430806594
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GBC_LoZ items_0
+    21300002: GBC_LoZ items_1
+    21300004: GBC_LoZ items_2
+    21300006: GBC_LoZ items_3
+    21300008: GBC_LoZ items_4
+    21300010: GBC_LoZ items_5
+    21300012: GBC_LoZ items_6
+    21300014: GBC_LoZ items_7
+    21300016: GBC_LoZ items_8
+    21300018: GBC_LoZ items_9
+    21300020: GBC_LoZ items_10
+    21300022: GBC_LoZ items_11
+    21300024: GBC_LoZ items_12
+    21300026: GBC_LoZ items_13
+    21300028: GBC_LoZ items_14
+    21300030: GBC_LoZ items_15
+    21300032: GBC_LoZ items_16
+    21300034: GBC_LoZ items_17
+    21300036: GBC_LoZ items_18
+    21300038: GBC_LoZ items_19
+    21300040: GBC_LoZ items_20
+    21300042: GBC_LoZ items_21
+    21300044: GBC_LoZ items_22
+    21300046: GBC_LoZ items_23
+    21300048: GBC_LoZ items_24
+    21300050: GBC_LoZ items_25
+    21300052: GBC_LoZ items_26
+    21300054: GBC_LoZ items_27
+    21300056: GBC_LoZ items_28
+    21300058: GBC_LoZ items_29
+    21300060: GBC_LoZ items_30
+    21300062: GBC_LoZ items_31
+    21300064: GBC_LoZ items_32
+    21300066: GBC_LoZ items_33
+    21300068: GBC_LoZ items_34
+    21300070: GBC_LoZ items_35
+    21300072: GBC_LoZ items_36
+    21300074: GBC_LoZ items_37
+    21300076: GBC_LoZ items_38
+    21300078: GBC_LoZ items_39
+    21300080: GBC_LoZ items_40
+    21300082: GBC_LoZ items_41
+    21300084: GBC_LoZ items_42
+    21300086: GBC_LoZ items_43
+    21300088: GBC_LoZ items_44
+    21300090: GBC_LoZ items_45
+    21300092: GBC_LoZ items_46
+    21300094: GBC_LoZ items_47
+    21300096: GBC_LoZ items_48
+    21300098: GBC_LoZ items_49
+    21300100: GBC_LoZ items_50
+    21300102: GBC_LoZ items_51
+    21300104: GBC_LoZ items_52
+    21300106: GBC_LoZ items_53
+    21300108: GBC_LoZ items_54
+    21300110: GBC_LoZ items_55
+    21300112: GBC_LoZ items_56
+    21300114: GBC_LoZ items_57
+    21300116: GBC_LoZ items_58
+    21300118: GBC_LoZ items_59
+    21300120: GBC_LoZ items_60
+    21300122: GBC_LoZ items_61
+    21300124: GBC_LoZ items_62
+    21300126: GBC_LoZ items_63
+    21300128: GBC_LoZ items_64
+    21300130: GBC_LoZ items_65
+    21300132: GBC_LoZ items_66
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: GBC_LoZ items_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 92
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GBC_LoZ items_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 92
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GBC_LoZ items_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 92
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GBC_LoZ items_3
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 92
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GBC_LoZ items_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 92
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GBC_LoZ items_5
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 92
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GBC_LoZ items_6
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 92
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GBC_LoZ items_7
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 92
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GBC_LoZ items_8
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 92
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GBC_LoZ items_9
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 92
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GBC_LoZ items_10
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 92
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GBC_LoZ items_11
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 92
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GBC_LoZ items_12
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 92
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GBC_LoZ items_13
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 75
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GBC_LoZ items_14
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 75
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GBC_LoZ items_15
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 75
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GBC_LoZ items_16
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 75
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GBC_LoZ items_17
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 75
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GBC_LoZ items_18
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 75
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GBC_LoZ items_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 75
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GBC_LoZ items_20
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 75
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GBC_LoZ items_21
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 75
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GBC_LoZ items_22
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 75
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GBC_LoZ items_23
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 75
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GBC_LoZ items_24
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 75
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GBC_LoZ items_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 75
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GBC_LoZ items_26
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 75
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GBC_LoZ items_27
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 75
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GBC_LoZ items_28
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 76
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GBC_LoZ items_29
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 57
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GBC_LoZ items_30
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 57
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GBC_LoZ items_31
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 57
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GBC_LoZ items_32
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 57
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GBC_LoZ items_33
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 57
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GBC_LoZ items_34
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 57
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GBC_LoZ items_35
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 57
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GBC_LoZ items_36
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 57
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GBC_LoZ items_37
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 57
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GBC_LoZ items_38
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 57
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GBC_LoZ items_39
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 57
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GBC_LoZ items_40
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 57
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GBC_LoZ items_41
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 57
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GBC_LoZ items_42
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 57
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GBC_LoZ items_43
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 57
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GBC_LoZ items_44
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 39
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GBC_LoZ items_45
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 39
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GBC_LoZ items_46
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 44
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GBC_LoZ items_47
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 39
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GBC_LoZ items_48
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 39
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GBC_LoZ items_49
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 39
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GBC_LoZ items_50
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 39
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GBC_LoZ items_51
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 39
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GBC_LoZ items_52
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 39
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GBC_LoZ items_53
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 39
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GBC_LoZ items_54
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 39
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GBC_LoZ items_55
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 23
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GBC_LoZ items_56
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 23
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GBC_LoZ items_57
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 23
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GBC_LoZ items_58
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 23
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GBC_LoZ items_59
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 23
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GBC_LoZ items_60
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 24
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GBC_LoZ items_61
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 24
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GBC_LoZ items_62
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 24
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GBC_LoZ items_63
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 24
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GBC_LoZ items_64
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 24
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GBC_LoZ items_65
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 21
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GBC_LoZ items_66
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 4
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
