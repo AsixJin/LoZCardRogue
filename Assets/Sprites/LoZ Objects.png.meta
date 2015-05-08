@@ -1,0 +1,1122 @@
+fileFormatVersion: 2
+guid: 12996d249b56047ea8af515c2a1c749e
+timeCreated: 1430904992
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: LoZ Objects_0
+    21300002: LoZ Objects_1
+    21300004: LoZ Objects_2
+    21300006: LoZ Objects_3
+    21300008: LoZ Objects_4
+    21300010: LoZ Objects_5
+    21300012: LoZ Objects_6
+    21300014: LoZ Objects_7
+    21300016: LoZ Objects_8
+    21300018: LoZ Objects_9
+    21300020: LoZ Objects_10
+    21300022: LoZ Objects_11
+    21300024: LoZ Objects_12
+    21300026: LoZ Objects_13
+    21300028: LoZ Objects_14
+    21300030: LoZ Objects_15
+    21300032: LoZ Objects_16
+    21300034: LoZ Objects_17
+    21300036: LoZ Objects_18
+    21300038: LoZ Objects_19
+    21300040: LoZ Objects_20
+    21300042: LoZ Objects_21
+    21300044: LoZ Objects_22
+    21300046: LoZ Objects_23
+    21300048: LoZ Objects_24
+    21300050: LoZ Objects_25
+    21300052: LoZ Objects_26
+    21300054: LoZ Objects_27
+    21300056: LoZ Objects_28
+    21300058: LoZ Objects_29
+    21300060: LoZ Objects_30
+    21300062: LoZ Objects_31
+    21300064: LoZ Objects_32
+    21300066: LoZ Objects_33
+    21300068: LoZ Objects_34
+    21300070: LoZ Objects_35
+    21300072: LoZ Objects_36
+    21300074: LoZ Objects_37
+    21300076: LoZ Objects_38
+    21300078: LoZ Objects_39
+    21300080: LoZ Objects_40
+    21300082: LoZ Objects_41
+    21300084: LoZ Objects_42
+    21300086: LoZ Objects_43
+    21300088: LoZ Objects_44
+    21300090: LoZ Objects_45
+    21300092: LoZ Objects_46
+    21300094: LoZ Objects_47
+    21300096: LoZ Objects_48
+    21300098: LoZ Objects_49
+    21300100: LoZ Objects_50
+    21300102: LoZ Objects_51
+    21300104: LoZ Objects_52
+    21300106: LoZ Objects_53
+    21300108: LoZ Objects_54
+    21300110: LoZ Objects_55
+    21300112: LoZ Objects_56
+    21300114: LoZ Objects_57
+    21300116: LoZ Objects_58
+    21300118: LoZ Objects_59
+    21300120: LoZ Objects_60
+    21300122: LoZ Objects_61
+    21300124: LoZ Objects_62
+    21300126: LoZ Objects_63
+    21300128: LoZ Objects_64
+    21300130: LoZ Objects_65
+    21300132: LoZ Objects_66
+    21300134: LoZ Objects_67
+    21300136: LoZ Objects_68
+    21300138: LoZ Objects_69
+    21300140: LoZ Objects_70
+    21300142: LoZ Objects_71
+    21300144: LoZ Objects_72
+    21300146: LoZ Objects_73
+    21300148: LoZ Objects_74
+    21300150: LoZ Objects_75
+    21300152: LoZ Objects_76
+    21300154: LoZ Objects_77
+    21300156: LoZ Objects_78
+    21300158: LoZ Objects_79
+    21300160: LoZ Objects_80
+    21300162: LoZ Objects_81
+    21300164: LoZ Objects_82
+    21300166: LoZ Objects_83
+    21300168: LoZ Objects_84
+    21300170: LoZ Objects_85
+    21300172: LoZ Objects_86
+    21300174: LoZ Objects_87
+    21300176: LoZ Objects_88
+    21300178: LoZ Objects_89
+    21300180: LoZ Objects_90
+    21300182: LoZ Objects_91
+    21300184: LoZ Objects_92
+    21300186: LoZ Objects_93
+    21300188: LoZ Objects_94
+    21300190: LoZ Objects_95
+    21300192: LoZ Objects_96
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: LoZ Objects_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 142
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 142
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 142
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_3
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 142
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_4
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 142
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_5
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 142
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_6
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 142
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_7
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 142
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_8
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 141
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_9
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 141
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_10
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 141
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_11
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 141
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_12
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 141
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_13
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 141
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_14
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 141
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_15
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 126
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_16
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 126
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_17
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 126
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_18
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 126
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_19
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 104
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_20
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 104
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_21
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 104
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_22
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 104
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_23
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 104
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_24
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 104
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_25
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 104
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_26
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_27
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 86
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_28
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 85
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_29
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 85
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_30
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 84
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_31
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_32
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_33
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_34
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_35
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 65
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_36
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_37
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 84
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_38
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 83
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_39
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 83
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_40
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_41
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 84
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_42
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 84
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_43
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 83
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_44
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 42
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_45
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 42
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_46
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 42
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_47
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 42
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_48
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 42
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_49
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 42
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_50
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 42
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_51
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 42
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_52
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 42
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_53
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 42
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_54
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_55
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 43
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_56
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_57
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_58
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_59
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_60
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_61
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 52
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_62
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 53
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_63
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 53
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_64
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 23
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_65
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 23
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_66
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 23
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_67
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 23
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_68
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 23
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_69
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 23
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_70
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 23
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_71
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_72
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_73
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_74
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_75
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_76
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 10
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_77
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 6
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_78
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 5
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_79
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 4
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_80
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 3
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_81
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 3
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_82
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 8
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_83
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_84
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_85
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 5
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_86
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_87
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_88
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_89
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_90
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_91
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 5
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_92
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_93
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_94
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_95
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoZ Objects_96
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 5
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
